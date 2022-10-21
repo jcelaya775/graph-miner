@@ -72,7 +72,7 @@ class GraphMiner:
 
     def runLoop(self):
         while self.best_fitness < 1:
-            
+            pass
 
 
 def main():
